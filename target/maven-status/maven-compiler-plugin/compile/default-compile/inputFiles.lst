@@ -1,0 +1,6 @@
+/root/git-repo/spring-mybatis/src/main/java/com/kado/template/springmybatis/dao/StudentDao.java
+/root/git-repo/spring-mybatis/src/main/java/com/kado/template/springmybatis/controller/model/StudentLogin.java
+/root/git-repo/spring-mybatis/src/main/java/com/kado/template/springmybatis/controller/StudentController.java
+/root/git-repo/spring-mybatis/src/main/java/com/kado/template/springmybatis/controller/model/Student.java
+/root/git-repo/spring-mybatis/src/main/java/com/kado/template/springmybatis/service/impl/StudentServiceImpl.java
+/root/git-repo/spring-mybatis/src/main/java/com/kado/template/springmybatis/service/StudentService.java

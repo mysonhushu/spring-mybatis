@@ -1,0 +1,6 @@
+com/kado/template/springmybatis/service/impl/StudentServiceImpl.class
+com/kado/template/springmybatis/controller/StudentController.class
+com/kado/template/springmybatis/service/StudentService.class
+com/kado/template/springmybatis/controller/model/StudentLogin.class
+com/kado/template/springmybatis/dao/StudentDao.class
+com/kado/template/springmybatis/controller/model/Student.class
